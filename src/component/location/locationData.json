@@ -1,0 +1,24 @@
+{
+  "quad": {
+    "id": 1,
+    "title": "Location quad",
+    "services": "Services",
+    "servicesDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit minus dolor cum architecto unde, itaque iste. Exercitationem vel incidunt ipsam ducimus quaerat eveniet ea sapiente reprehenderit. Maxime debitis qui ad.",
+    "destinations": "Destinations",
+    "destinationsDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit minus dolor cum architecto unde, itaque iste. Exercitationem vel incidunt ipsam ducimus quaerat eveniet ea sapiente reprehenderit. Maxime debitis qui ad.",
+    "imgTop": "./locationTop.png",
+    "imgBottom": "./locationBottom.jpg",
+    "vehicule": "./locationQuad1.png"
+  },
+  "moto": {
+    "id": 2,
+    "title": "Location Motos",
+    "services": "Services",
+    "servicesDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit minus dolor cum architecto unde, itaque iste. Exercitationem vel incidunt ipsam ducimus quaerat eveniet ea sapiente reprehenderit. Maxime debitis qui ad.",
+    "destinations": "Destinations",
+    "destinationsDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit minus dolor cum architecto unde, itaque iste. Exercitationem vel incidunt ipsam ducimus quaerat eveniet ea sapiente reprehenderit. Maxime debitis qui ad.",
+    "imgTop": "./locationTop.png",
+    "imgBottom": "./locationBottom.jpg",
+    "vehicule": "./locationQuad1.png"
+  }
+}

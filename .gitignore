@@ -4,7 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-./package.json
 
 # testing
 /coverage
@@ -22,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# pages
+/src/index.css
+/src/index.css.map
+/src/package.json
+/src/yarn.lock
